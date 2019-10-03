@@ -32,3 +32,25 @@ than or equal to `n`. For example:
 ## References
 
 [Wikipedia](https://en.wikipedia.org/wiki/Factorial)
+
+----
+
+# Dijkstra's Algorithm
+
+Used to find the shortest path on a map between any two points. For instance, if given the following map:
+
+a -(5)- b -(5)- d
+'       '    ,--'
+'      (7) (8) (6)
+'       ' ,-'   '
+'--(9)- c       e
+'       '    ,--'
+'      (2) (9)
+'       ' ,-'
+'--(4)- f
+
+Where the letters present our points and the numbers represent the distance between the points, using Dijkstra's Algorithm we can find that the shortest path between "b" and "f" is "b -> c -> f" with a total distance travelled of 9 (from 7+2), and the shortest path between "a" to "e" is "a -> b -> d -> e" with a total distance travelled of 16 (from 5+5+6). Also, you may find the technical terms used when describing this algorithm refer to a map as a "graph", points on the map as "nodes", and the distance between the points called "cost".
+
+## References
+
+[Wikipedia](https://en.m.wikipedia.org/wiki/Dijkstra%27s_algorithm)

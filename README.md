@@ -9,6 +9,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 * `A` [KMP Algorithm](C++/KMP(string-matching-algorithm).cpp)
 * `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)
 * `A` [Tower-of-Hanoi](C++/Tower-of-Hanoi.cpp)
+* `A` [interpolation search](C++/interpolation_search.cpp)
 
 ## JavaScript 
 
@@ -17,11 +18,8 @@ Write Algorithm in any language and contribute to HacktoberFest
 * `B` [Factorial](javascript/factorial.js)
 * `B` [Fibonnaci](javascript/fibonnaci.js)
 
-
 ## Python 3
 * `B` [Factorial](Python/factorial.py)
-* `A` [interpolation search](C++/interpolation_search.cpp)
-
 
 ## Java
 * `B` [Factorial](Java/Factorial.java)

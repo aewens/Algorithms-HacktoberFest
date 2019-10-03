@@ -20,6 +20,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 
 ## Python 3
 * `B` [Factorial](Python/factorial.py)
+* `A` [Dijkstra](Python/dijkstra.py)
 
 ## Java
 * `B` [Factorial](Java/Factorial.java)
